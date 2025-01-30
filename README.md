@@ -21,7 +21,7 @@ Here's a quick overview of my GitHub activity:
 ## 📂 Recent Commits
 Check out my recent commits:
 
-![Recent Commits](https://github-readme-stats.vercel.app/api/pin/?username=DevVan1010&repo=yourreponame&theme=radical)
+![Recent Commits](https://github-readme-stats.vercel.app/api/pin/?username=DevVan1010&repo=DevVan1010&theme=radical)
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into:
